@@ -1,0 +1,4 @@
+
+ nXAux: 203	 nYAux: 197	 X: 0.60	 Y: -0.60	 Phi: 204.20	 m: 0.45	 XPrima: -40.00	 YPrima: 17.00	 nXFinal: 0	 nYFinal: 285	 Punto intercepcion, b: 285.00
+ nXAux: 198	 nYAux: 204	 X: -0.40	 Y: 0.80	 Phi: 98.65	 m: -6.58	 XPrima: -6.20	 YPrima: 40.00	 nXFinal: 169	 nYFinal: 400	 Punto intercepcion, b: 1542.21
+ nXAux: 199	 nYAux: 203	 X: -0.20	 Y: 0.60	 Phi: 163.97	 m: -0.29	 XPrima: -40.00	 YPrima: -11.00	 nXFinal: 0	 nYFinal: 145	 Punto intercepcion, b: 145.00
